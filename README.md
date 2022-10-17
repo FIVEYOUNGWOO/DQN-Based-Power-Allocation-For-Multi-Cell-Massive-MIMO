@@ -2,8 +2,6 @@
 
 Implementation of DRL-based power allocation for massive MIMO with the cellular network.
 
-It's draft version of DRL-based PA method.
-
 ## Hyperparameters
 - (N) is the number of cells equal to the number of BSs
 - (M) is the number of BS transmission antennas
