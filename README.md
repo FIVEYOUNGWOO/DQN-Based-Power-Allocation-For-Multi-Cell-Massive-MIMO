@@ -1,4 +1,4 @@
-## DRL-based-power-allocation-for-multi-cell-massive-MIMO (draft)
+## DRL-based-Power-Allocation-For-Multi-Cell-Massive-MIMO
 
 Implementation of DRL-based power allocation for massive MIMO with the cellular network.
 
