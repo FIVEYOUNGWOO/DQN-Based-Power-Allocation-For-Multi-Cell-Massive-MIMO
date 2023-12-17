@@ -1,8 +1,10 @@
 ## DRL-based-Power-Allocation-For-Multi-Cell-Massive-MIMO
 
-Implementation of DRL-based power allocation for massive MIMO with the cellular network.
+Implementation of DRL-based power allocation for massive MIMO with the cellular network in Open-AI Gym.
 
-(* It is first draft version of DRL-based PA)
+In that case, solely designed reinforcement learning algorithm as the Deep Q network (DQN). 
+
+(* It is a first draft version of DRL-based PA)
 
 ## Hyperparameters
 - (N) is the number of cells equal to the number of BSs
@@ -13,4 +15,4 @@ Implementation of DRL-based power allocation for massive MIMO with the cellular 
 - (Ns) is the Number of samples as TDD interval
 - (min_p) is Minimum transmission power [dBm]
 - (max_p) is Maximum transmission power [dBm]
-- (num_p) is Number of action space size
+- (num_p) is the number of action space size
